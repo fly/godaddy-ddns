@@ -1,0 +1,4 @@
+(executable
+ (public_name godaddy-ddns)
+ (name main)
+ (libraries http-lwt-client yojson unix))
